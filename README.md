@@ -6,4 +6,4 @@ Chat online made with JavaScript, Express and Socket.io.
 
 <img src='POPmessage.png' width='100%'/>
 
-version: 1.0.0
+version: 1.2.0
